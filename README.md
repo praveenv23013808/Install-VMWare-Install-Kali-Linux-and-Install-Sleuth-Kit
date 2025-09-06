@@ -16,7 +16,7 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 
 ### **Step 2: Install Kali Linux on VirtualBox**
-🔗 **Download Kali Linux VM**: [Click Here](https://www.kali.org/get-kali/#kali-virtual-machines)  
+🔗 **Download Kali Linux VM**: [Click Here](https://www.kali.org/get-kali/#kali-virtual-machines) 
 
 ### **Installation Steps:**
 1. Download the Kali Linux ISO file.Open VirtualBox, click New, enter "Kali Linux", select Type: Linux and Version: Debian (64-bit).  
@@ -43,7 +43,7 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 ## OUTPUT:
 ### VIRTUAL BOX :
-![image](https://github.com/user-attachments/assets/b361de2b-6f4b-4f18-acf3-30535786132b)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a7d2f07-21f1-4fdf-a238-808092680b43" />
 
 ### KALI LINUX:
 ![image](https://github.com/user-attachments/assets/9faca712-6391-4934-b1fe-d8bb631defec)
